@@ -22,8 +22,8 @@
   position: absolute;
   inset: 0;
   z-index: -1; /* Фон ниже текста */
-  background: url(/img/bmx-574915_1280.jpg) no-repeat center center/cover;
-  filter: blur(2px); /* Размытие */
+  background: url("https://cdn.pixabay.com/photo/2014/12/21/13/50/bmx-574915_1280.jpg") no-repeat center center/cover;
+  filter: blur(1.8px); /* Размытие */
 }
 
 .container {
