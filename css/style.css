@@ -17,7 +17,7 @@
   position: relative;
 }
 
-.wrapper:before {
+.wrapper::before {
   content: "";
   position: absolute;
   inset: 0;
