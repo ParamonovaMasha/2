@@ -25,7 +25,7 @@
   inset: 0;
   z-index: -1; 
   background: url('../img/bmx-574915_1280.jpg') no-repeat center center/cover;
-  filter: blur(1.8px); 
+  filter: blur(1.4px); 
 }
 
 .container {
