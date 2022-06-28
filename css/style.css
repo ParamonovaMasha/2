@@ -13,10 +13,11 @@
 .wrapper {
   overflow: hidden;
   min-width: 100vw;
- height: 100vh;
+  height: 100vh;
   position: relative;
   display: flex;
-  place-content: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .wrapper::before {
