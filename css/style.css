@@ -22,7 +22,7 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: url("../img/bmx-574915_1280.jpg") no-repeat center center/cover;
+  background: url("img/bmx-574915_1280.jpg") no-repeat center center/cover;
   filter: blur(1.2px);
 }
 
