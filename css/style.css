@@ -22,7 +22,7 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/faecf285398393.5d7a620befb5d.jpg) no-repeat center center/cover;
+  background: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/faecf285398393.5d7a620befb5d.jpg") no-repeat center center/cover;
   filter: blur(1.2px);
 }
 
